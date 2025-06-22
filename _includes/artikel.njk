@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ title }} | Langsapost</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <h1><a href="/">Langsapost</a></h1>
+  <h2>{{ title }}</h2>
+  <p><small>{{ date | date }}</small></p>
+  <div>{{ content | safe }}</div>
+  <p>&copy; {{ "now" | date }} Langsapost</p>
+</body>
+</html>

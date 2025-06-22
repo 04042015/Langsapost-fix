@@ -1,0 +1,15 @@
+
+{
+  "name": "langsapost",
+  "version": "1.0.0",
+  "description": "Portal berita Langsapost",
+  "main": ".eleventy.js",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "luxon": "^3.0.0"
+  }
+}
