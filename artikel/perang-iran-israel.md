@@ -1,13 +1,7 @@
 ---
-title: Ketegangan Memuncak: Perang Iran dan Israel Meletus di Timur Tengah
-date: 2025-06-19
-layout: artikel.njk
+title: "Ketegangan Memuncak: Perang Iran dan Israel Meletus"
+date: "2025-06-21"
+kategori: "internasional"
 ---
 
-Konflik berkepanjangan antara **Iran** dan **Israel** kini berubah menjadi perang terbuka setelah serangkaian serangan militer diluncurkan dari kedua belah pihak.
-
-### Latar Belakang
-
-Pertikaian ini bermula dari dugaan serangan drone ke wilayah perbatasan Israel...
-
-**Langsapost** akan terus memantau perkembangan.
+Ketegangan geopolitik di Timur Tengah kembali memanas setelah konflik terbuka antara Iran dan Israel meletus. Serangan udara, roket, dan cyber telah saling diluncurkan, memicu kekhawatiran internasional akan eskalasi lebih luas. Komunitas global menyerukan de-eskalasi, sementara warga sipil di kedua negara bersiap menghadapi kemungkinan krisis berkepanjangan.
